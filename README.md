@@ -21,7 +21,7 @@ In addition to my passion for technology, I enjoy indulging in other hobbies suc
 
 <img src="https://img.shields.io/badge/PPROGRAMMING LANGUAGES:-black?style=flat-square" height="21" /><img src="https://img.shields.io/badge/Java-0066ff?style=plastic&logo=openjdk" height="20" /><img src="https://img.shields.io/badge/Python-darkred?style=plastic&logo=python" height="20" /><img src="https://img.shields.io/badge/C/C++-lightgreen?style=plastic" height="20" /><img src="https://img.shields.io/badge/Golang-purple?style=plastic&logo=go" height="20" />
 
-<img src="https://img.shields.io/badge/FRAMEWORKS:-black?style=flat-square" height="21" /><img src="https://img.shields.io/badge/Spring Boot-purple?style=plastic&logo=springboot" height="20" /><img src="https://img.shields.io/badge/Hibernate-ff0080?style=plastic&logo=hibernate" height="20" /><img src="https://img.shields.io/badge/Flask-darkblue?style=plastic&logo=flask" height="20" /><img src="https://img.shields.io/badge/django-yellow?style=plastic&logo=django" height="20" />
+<img src="https://img.shields.io/badge/FRAMEWORKS:-black?style=flat-square" height="21" /><img src="https://img.shields.io/badge/Spring Boot-purple?style=plastic&logo=springboot" height="20" /><img src="https://img.shields.io/badge/Hibernate-ff0080?style=plastic&logo=hibernate" height="20" /><img src="https://img.shields.io/badge/Flask-darkblue?style=plastic&logo=flask" height="20" />
 
 <img src="https://img.shields.io/badge/DATABASES:-black?style=flat-square" height="21" /><img src="https://img.shields.io/badge/MongoDB-0066ff?style=plastic&logo=mongodb" height="20" /><img src="https://img.shields.io/badge/PostgreSQL-lightgreen?style=plastic&logo=postgresql" height="20" /><img src="https://img.shields.io/badge/SQL Server-purple?style=plastic&logo=microsoftsqlserver" height="20" /><img src="https://img.shields.io/badge/ClickHouse-red?style=plastic&logo=clickhouse" height="20" />
 
@@ -35,4 +35,5 @@ In addition to my passion for technology, I enjoy indulging in other hobbies suc
 
 
 <sub>Thanks for visiting my page.<sub><br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kladiskov.visitor_badge&left_color=darkgreen&right_color=blue)
 
