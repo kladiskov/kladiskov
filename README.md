@@ -3,16 +3,21 @@
 <p align="center"><i>- Douglas Adams - Mostly Harmless,1992 -</i></p>
 
 <details>
-<summary> About me</summary>
+    <summary>About me</summary>
 <br />
 
 ### Hi there 👋 
 
-I am Sandesh, a software engineer (backend focused) based on out of Bangalore, India.
+I am Sandesh, a backend focused software engineer.
 
 I'm passionate about developing scalable and reliable software solutions that can help solve real-world problems. I enjoy working on challenging projects that require me to think outside the box and learn new things.
 
-<h2>Skillsets</h2>
+In addition to my passion for technology, I enjoy indulging in other hobbies such as running, hiking, traveling, and listening to audio books. Moreover, I have a great interest in cooking as well.
+
+
+<details>
+    <summary>Technologies I use</summary>
+<br />
 
 <img src="https://img.shields.io/badge/PPROGRAMMING LANGUAGES:-black?style=flat-square" height="21" /><img src="https://img.shields.io/badge/Java-0066ff?style=plastic&logo=openjdk" height="20" /><img src="https://img.shields.io/badge/Python-darkred?style=plastic&logo=python" height="20" /><img src="https://img.shields.io/badge/C/C++-lightgreen?style=plastic" height="20" /><img src="https://img.shields.io/badge/Golang-purple?style=plastic&logo=go" height="20" />
 
