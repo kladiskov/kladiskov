@@ -2,6 +2,9 @@
 <p align="center"><i>“The major difference between a thing that might go wrong and a thing that cannot possibly go wrong is that when a thing that cannot possibly go wrong goes wrong, it usually turns out to be impossible to get at and repair.”</i></p>
 <p align="center"><i>- Douglas Adams - Mostly Harmless,1992 -</i></p>
 
+<details>
+    <summary>About me</summary>
+<br />
 
 ### Hi there 👋 
 
@@ -11,6 +14,9 @@ I'm passionate about developing scalable and reliable software solutions that ca
 
 In addition to my passion for technology, I enjoy indulging in other hobbies such as running, hiking, traveling, and listening to audio books. Moreover, I have a great interest in cooking as well.
 
+<details>
+    <summary>Technologies I use</summary>
+<br />
 
 
 <img src="https://img.shields.io/badge/PPROGRAMMING LANGUAGES:-black?style=flat-square" height="21" /> <img src="https://img.shields.io/badge/Java-003399?style=plastic&logo=openjdk" height="20" /><img src="https://img.shields.io/badge/Python-800000?style=plastic&logo=python" height="20" /><img src="https://img.shields.io/badge/C/C++-2d862d?style=plastic" height="20" /><img src="https://img.shields.io/badge/Golang-purple?style=plastic&logo=go" height="20" />
